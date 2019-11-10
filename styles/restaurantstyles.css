@@ -1,24 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Julius+Sans+One');
 
 body {
-  background-color: #F5F1E3;
+    background-color: #F5F1E3;
 }
 
-header, footer {
-  background-color: #f08080;
-  color: white;
-  text-align: center;
-  padding-top: 12px;
-  padding-bottom: 12px;
+header,
+footer {
+    background-color: #f08080;
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
 .jumbotron {
-  background-color: #f08080;
+    background-color: #f08080;
 }
 
 h1 {
-  font-family: 'Julius Sans One', 'Alegreya Sans SC', sans-serif;
-  text-align: center;
+    font-family: 'Julius Sans One', 'Alegreya Sans SC', sans-serif;
+    text-align: center;
 }
 
 /*nav {
@@ -27,35 +28,35 @@ h1 {
   padding-bottom: 20px;
 }*/
 nav .btn {
-  background-color: #f08080;
-  color: #ffffff;
+    background-color: #f08080;
+    color: #ffffff;
 }
 
 nav .btn:hover {
-  font-weight: bold;
-  outline-color: black;
-  
+    font-weight: bold;
+    outline-color: black;
+
 }
 
 nav .btn:visited {
-  color: #ffff;
+    color: #ffff;
 }
 
 nav .btn:active {
-  text-decoration: none;
+    text-decoration: none;
     color: cornflowerblue;
 }
 
 #home p {
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #home img {
-  border-radius: 10px;
-  border: 4px solid lightgray;
+    border-radius: 10px;
+    border: 4px solid lightgray;
 }
 
 p {
-  color: #050505;
+    color: #050505;
 }
